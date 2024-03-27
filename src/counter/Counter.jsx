@@ -42,11 +42,11 @@ export default function Counter()
       {sum <= 0 && <div style={{ color: 'red' }}>Warning: The sum has gone below 0</div>}
 
       
-    <BasicCounter  by = {1}  ParentIncrememt1= {ParentIncrememt2} ParentDecrememt= {ParentDecrememt} > </BasicCounter>
-    <BasicCounter  by = {2} ParentIncrememt1= {ParentIncrememt2} ParentDecrememt= {ParentDecrememt}> </BasicCounter>
-    <BasicCounter  by = {3}  ParentIncrememt1= {ParentIncrememt2} ParentDecrememt= {ParentDecrememt}> </BasicCounter>
-    <BasicCounter  by = {4}  ParentIncrememt1= {ParentIncrememt2} ParentDecrememt= {ParentDecrememt} ></BasicCounter>
-    <BasicCounter  by = {5} ParentIncrememt1= {ParentIncrememt2} ParentDecrememt= {ParentDecrememt}> </BasicCounter>
+    <BasicCounter  by = {10}  ParentIncrememt1= {ParentIncrememt2} ParentDecrememt= {ParentDecrememt} > </BasicCounter>
+    <BasicCounter  by = {20} ParentIncrememt1= {ParentIncrememt2} ParentDecrememt= {ParentDecrememt}> </BasicCounter>
+    <BasicCounter  by = {30}  ParentIncrememt1= {ParentIncrememt2} ParentDecrememt= {ParentDecrememt}> </BasicCounter>
+    <BasicCounter  by = {40}  ParentIncrememt1= {ParentIncrememt2} ParentDecrememt= {ParentDecrememt} ></BasicCounter>
+    <BasicCounter  by = {50} ParentIncrememt1= {ParentIncrememt2} ParentDecrememt= {ParentDecrememt}> </BasicCounter>
 
     <div>
 
