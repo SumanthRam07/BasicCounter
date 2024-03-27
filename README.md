@@ -1,3 +1,4 @@
+ HEAD
 
 
 " testing is done"
@@ -5,6 +6,7 @@
 
 
 
+ 12fb64b (testing different type sof issues)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -75,5 +77,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<<<<<<< HEAD
 >>>>>>> c518ea8 (My first counter commit)
+<<<<<<< HEAD
 >>>>>>> 96a3031 (Resolves the chnages with Readme.md)
+=======
+=======
+>>>>>>> 12fb64b (testing different type sof issues)
+>>>>>>> a2464f6 (still trying)
